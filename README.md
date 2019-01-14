@@ -1,6 +1,6 @@
 # My crew
 
-## OVERIVEW
+## OVERVIEW
 This is a project for recruiting people
 There are 3 stages "applied", "interviewing" and "hired"
 
