@@ -1,0 +1,37 @@
+.grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.grid-item {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.candidate-card {
+    border: 2px solid grey;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+
+.candidate-card-title {
+    padding-left: 10px;
+    text-transform: capitalize;
+}
+
+.candidate-card-city {
+    text-transform: capitalize;
+    color: #777;
+}
+
+.candidate-card-actions {
+    margin-top: 10px;
+}
+
+.filters {
+    float: right;
+}
